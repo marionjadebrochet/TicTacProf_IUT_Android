@@ -1,3 +1,6 @@
+# Projet dans le cadre de l'IUT du Limousin
+<br />
+
 # TicTacToeProf
 
  Nous avons développer une application Android de jeu avec deux autres camardes. C’est une sorte de Tic-Tac-Toe. Un jeu avec une grille et deux joueurs, qui essayent de gagner en alignant trois croix ou trois cercles. Le jeu que nous proposons sera simple d’utilisation afin qu’il puisse être utilisé par les petits comme par les grands et même les très grands.
