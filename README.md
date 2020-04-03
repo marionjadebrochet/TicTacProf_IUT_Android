@@ -1,27 +1,29 @@
-# AndroidApp_TicTacToeProf
+# TicTacToeProf
 
- Nous avons développer une application de jeu avec deux autres camardes. C’est une sorte de Tic-Tac-Toe. Un jeu avec une grille et deux joueurs, qui essayent de gagner en alignant trois croix ou trois cercles. Le jeu que nous proposons sera simple d’utilisation afin qu’il puisse être utilisé par les petits comme par les grands et même les très grands.
+ Nous avons dÃ©velopper une application Android de jeu avec deux autres camardes. Câ€™est une sorte de Tic-Tac-Toe. Un jeu avec une grille et deux joueurs, qui essayent de gagner en alignant trois croix ou trois cercles. Le jeu que nous proposons sera simple dâ€™utilisation afin quâ€™il puisse Ãªtre utilisÃ© par les petits comme par les grands et mÃªme les trÃ¨s grands.
+ 
+ Nous avons utilisÃ© Android Studio et nous avons codÃ© en java.
 
 
-## Fonctionnalités réalisées : 
+## FonctionnalitÃ©s rÃ©alisÃ©es : 
 
-* Saisir un utilisateur au début, le joueur jouera avec son prénom.
+* Saisir un utilisateur au dÃ©but, le joueur jouera avec son prÃ©nom.
 
-* Démarrer le jeu.  
+* DÃ©marrer le jeu.  
 
-* Gestion des scores, dont calcul de point et remise à zéro.
+* Gestion des scores, dont calcul de point et remise Ã  zÃ©ro.
 
-* Recommencer une partie (remise à zéro des points et de la grille).
+* Recommencer une partie (remise Ã  zÃ©ro des points et de la grille).
 
-* Mettre une petite musique de fond avec un bouton pour la déclencher.
+* Mettre une petite musique de fond avec un bouton pour la dÃ©clencher.
 
-* On a ajouté des petites notifications sous la forme de Toast pour annoncer le gagnant.
+* On a ajoutÃ© des petites notifications sous la forme de Toast pour annoncer le gagnant.
 
 ## L'application
 
-Pour jouer il faut installer l'application avec le fichier "app-release.apk" sur votre téléphone mobile Android.
+Pour jouer il faut installer l'application avec le fichier "app-release.apk" sur votre tÃ©lÃ©phone mobile Android.
 
-Voici à quoi resemble le jeu :
+Voici Ã  quoi resemble le jeu :
 
 <img src="./img/cap2.PNG" alt="Accueil" />
 
